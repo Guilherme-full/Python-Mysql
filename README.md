@@ -18,7 +18,7 @@
 
 ## Linguagem e banco de Dados Utilizado
 
-<img align="center" width="80px" height="40px" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
-<img align="center" width="80px" height="40px" alt="Mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></img>
+<img align="center" width="80" height="80" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
+<img align="center" width="80" height="80" alt="Mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></img>
 
 
