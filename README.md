@@ -1,7 +1,7 @@
 # Python em conjunto com MYSQL
 
 
-## Comando para clonar o arquivo:
+## Comando para clonar o Repositório
 
 ```    
  git clone https://github.com/Guilherme-full/Python-Mysql.git
